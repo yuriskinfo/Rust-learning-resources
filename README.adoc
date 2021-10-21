@@ -5,9 +5,9 @@
 
 === Programming Rust, 2nd Edition
 _Programming Rust, 2nd Edition_
-Jim Blandy, Jason Orendorff, Leonora F.S. Tindall
-Released: June 2021
-Publisher: O'Reilly Media, Inc.
-Code repo: https://github.com/ProgrammingRust
+Jim Blandy, Jason Orendorff, Leonora F.S. Tindall +
+Released: June 2021 +
+Publisher: O'Reilly Media, Inc. +
+Code repo: https://github.com/ProgrammingRust +
 Errata: https://www.oreilly.com/catalog/errata.csp?isbn=0636920258049
 
