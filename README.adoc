@@ -1,2 +1,6 @@
 = Rust programming language learning resources
+:toc:
+
+== Books (printed, ebooks)
+
 
