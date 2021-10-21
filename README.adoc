@@ -21,3 +21,13 @@ Publisher: O'Reilly Media, Inc. +
 Code repo: https://github.com/ProgrammingRust +
 Errata: https://www.oreilly.com/catalog/errata.csp?isbn=0636920258049
 
+
+
+== Video (full courses, tutorials, conference talks)
+
+=== Rust in Motion
+https://www.manning.com/livevideo/rust-in-motion[_Rust in Motion_], Carol Nichols, Jake Goulding +
+Released: November 2019 +
+Publisher: Manning Publications +
+Running time: 4h 7m +
+Code repo: https://github.com/integer32llc/rust-in-motion-videos 
