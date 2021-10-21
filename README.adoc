@@ -7,8 +7,8 @@
 https://doc.rust-lang.org/book/[_The Rust Programming Language_] (online), also as printed https://nostarch.com/Rust2018[_The Rust Programming Language_]  +
 Steve Klabnik and Carol Nichols, with contributions from the Rust Community +
 Released: Ongoing, with each new release of the Rust +
-Publisher: 
-
+Publisher: (printed) No Starch Press +
+Code: https://github.com/rust-lang/book/
 
 
 
