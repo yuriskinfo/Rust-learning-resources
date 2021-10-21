@@ -12,7 +12,7 @@ Code: https://github.com/rust-lang/book/ +
 Rust version used: latest (in online version), 2018 in printed book +
 ⭐⭐⭐
 
-_Publisher description_: he Rust Programming Language is the official book on Rust: an open source systems programming language that helps you write faster, more reliable software. Rust offers control over low-level details (such as memory usage) in combination with high-level ergonomics, eliminating the hassle traditionally associated with low-level languages.
+_Publisher description_: The Rust Programming Language is the official book on Rust: an open source systems programming language that helps you write faster, more reliable software. Rust offers control over low-level details (such as memory usage) in combination with high-level ergonomics, eliminating the hassle traditionally associated with low-level languages.
 
 The authors of The Rust Programming Language, members of the Rust Core Team, share their knowledge and experience to show you how to take full advantage of Rust’s features—from installation to creating robust and scalable programs. 
 
