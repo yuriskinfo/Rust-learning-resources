@@ -20,6 +20,10 @@ Publisher: O'Reilly Media, Inc. +
 Code repo: https://github.com/ProgrammingRust +
 Errata: https://www.oreilly.com/catalog/errata.csp?isbn=0636920258049
 
+_Publisher description_: Systems programming provides the foundation for the world's computation. Developing performance-sensitive code requires a programming language that puts programmers in control of how memory, processor time, and other system resources are used. The Rust systems programming language combines that control with a modern type system that catches broad classes of common mistakes, from memory management errors to interthread data races.
+
+With this practical guide, experienced systems programmers will learn how to successfully bridge the gap between performance and safety using Rust. Jim Blandy, Jason Orendorff, and Leonora Tindall demonstrate how Rust's features put programmers in control over memory consumption and processor use by combining predictable performance with memory safety and trustworthy concurrency.
+
 
 
 == Video (full courses, tutorials, conference talks)
