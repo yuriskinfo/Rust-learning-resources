@@ -10,7 +10,6 @@ Released: Ongoing, with each new release of the Rust +
 Publisher: (printed) No Starch Press +
 Code: https://github.com/rust-lang/book/
 ⭐⭐⭐
-⯨
 
 
 === Programming Rust, 2nd Edition
