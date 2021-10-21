@@ -11,6 +11,11 @@ Publisher: (printed) No Starch Press +
 Code: https://github.com/rust-lang/book/
 ⭐⭐⭐
 
+_Publisher description_: he Rust Programming Language is the official book on Rust: an open source systems programming language that helps you write faster, more reliable software. Rust offers control over low-level details (such as memory usage) in combination with high-level ergonomics, eliminating the hassle traditionally associated with low-level languages.
+
+The authors of The Rust Programming Language, members of the Rust Core Team, share their knowledge and experience to show you how to take full advantage of Rust’s features—from installation to creating robust and scalable programs. 
+
+
 
 === Programming Rust, 2nd Edition
 https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/[_Programming Rust, 2nd Edition_] 
