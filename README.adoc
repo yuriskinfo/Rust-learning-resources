@@ -13,7 +13,7 @@ Publisher:
 
 
 === Programming Rust, 2nd Edition
-_Programming Rust, 2nd Edition_
+https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/[_Programming Rust, 2nd Edition_] 
 Jim Blandy, Jason Orendorff, Leonora F.S. Tindall +
 Released: June 2021 +
 Publisher: O'Reilly Media, Inc. +
