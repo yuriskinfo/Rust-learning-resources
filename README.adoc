@@ -26,6 +26,7 @@ Publisher: O'Reilly Media, Inc. +
 Code repo: https://github.com/ProgrammingRust +
 Errata: https://www.oreilly.com/catalog/errata.csp?isbn=0636920258049 +
 Rust version used: 1.50  +
+
 image::x-programming-rust-2nd-edition.png[]
 
 _Publisher description_: Systems programming provides the foundation for the world's computation. Developing performance-sensitive code requires a programming language that puts programmers in control of how memory, processor time, and other system resources are used. The Rust systems programming language combines that control with a modern type system that catches broad classes of common mistakes, from memory management errors to interthread data races.
