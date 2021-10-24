@@ -52,3 +52,15 @@ image::assets/x-rust-in-motion.png[]
 
 _Publisher description_: See it. Do it. Learn it! In Rust in Motion, premier Rust experts Carol Nichols and Jake Goulding, introduce you to the Rust programming language! Designed for modern systems programming, Rust delivers impressive speed and thread-safe concurrency. As coauthor of The Rust Programming Language, Carol literally helped write “The Book,” as the Rust community affectionately calls it. Jake created the Rust FFI Omnibus, and he’s also the #1 contributor to the Rust tag on Stack Overflow. If you’re ready to get started writing production-quality lightning-fast systems code, this liveVideo course is for you! 
 
+=== Rust Essential Training
+https://www.linkedin.com/learning/rust-essential-training/[_Rust Essential Training_], Barrone Stone +
+Released: March 2021 +
+Publisher: LinkedIn Learning +
+Running time: 6h 41m +
+Code repo: not available, download as zip file is on the course page +
+Rust version used: 1.48
+
+image::assets/x-rust-essential-training.png[]
+
+_Publisher description_: If you know even a little bit about programming languages, you know there are a plethora of options to choose from. If your priority is a language focused on reliability, speed, memory, safety, and parallelism, then Rust may be the one for you. In this course, instructor Barron Stone covers the key components of Rust, starting with basic programming concepts including variables, data types, functions, and control loops. He then moves on to some of the core concepts that are unique to Rust, including ownership, borrowing references, and crates. While Rust is great for low-level systems programming, it’s also being used for web apps, network services, and embedded programs. 
+
